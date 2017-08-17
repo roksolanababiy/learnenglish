@@ -1,0 +1,156 @@
+body {
+    background-color:#b2c2c2;
+    margin: 0; 
+    padding-top: 0;
+}
+header{
+    margin: 0; 
+    padding-top: 5px;
+    background-color: #ffe6e6;
+    height: 110px;
+}
+#nav{
+    float: left;
+    padding-left: 10px;
+    padding-top: 0px;
+    margin: 0;
+    font-size: 25px;
+}
+select{
+    float: right;
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+}
+
+h1{
+    padding-top: 10px;
+    font-size: 40px;
+    text-shadow: 3px 2px #b2c2c2;
+    text-align: right;
+}
+aside{
+    float: right;
+    background: #f0f0f0;
+    font-size: 27px;
+    width: 300px;
+    margin-top:180px;
+    
+}
+#search{
+    width: 200px;
+    height: 40px;
+    font-size: 20px;  
+}
+aside a{
+    line-height: 1.8;
+    font-size: 30px;
+    text-align: center;
+}
+aside a:hover, aside a:active {
+    font-size: 150%;
+}
+q {
+    font-family: 'Indie Flower', cursive;
+    color: red;
+    text-align: right;
+}
+#quote{
+    font-size: 40px;
+    padding-top: 20px;
+}
+aside a {
+    text-decoration: none;
+}
+article nav{
+    padding-top: 20px;
+    padding-left: 150px;
+    display:flex;
+    justify-content:center;
+}
+button a{
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Lobster', cursive;
+    font-size: 27px;
+    font-style: bold;
+    margin: 0;
+    padding: 0;
+    width: 400px;
+    height:30px;
+    background-color: #f1f1f1;
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+button a:hover {
+    background-color: #555;
+    color: white;
+}
+#girl {
+    border: 2px solid #ddd;
+    border-radius: 30%;
+    padding: 5px;
+    width: 450px;
+}
+.figure{
+    padding: 5px;
+    float: left; 
+    width: 200px; 
+}
+.common{
+    padding-top: 150px; 
+    padding-right: 450px; 
+    width: 500px; 
+    float: right; 
+}
+.common h2{
+    font-size: 30px;
+    text-indent: 50px;
+    line-height: 1.8;
+}
+.common p{
+    font-size: 25px;
+    text-indent: 50px;
+    line-height: 1.8;
+}
+span{
+    color: red
+}
+.clear {
+    clear: left;
+}
+.rb{
+    text-indent: 50px;
+    line-height: 1.8;
+    font-size: 25px;
+    text-align: center;
+}
+.infinity img{
+    padding-left: 970px;
+    width: 100px;
+   
+}
+.ways{
+     padding-top: 30px;
+    font-size: 30px;
+    text-indent: 50px;
+    line-height: 1.8;
+    text-align: center;
+}
+footer{
+    margin: 0; 
+    padding-top: 30px;
+    background-color: #ffe6e6;
+    height: 110px;
+    text-align: center;
+    
+}
+.paginator{
+    font-size: 30px;
+    font-style: bold;
+    text-align: center;
+}
+footer a:hover, footer a:active {
+    font-size: 130%;
+}
