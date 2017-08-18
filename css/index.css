@@ -25,6 +25,7 @@ select{
 
 h1{
     padding-top: 10px;
+    padding-right: 20px;
     font-size: 40px;
     text-shadow: 3px 2px #b2c2c2;
     text-align: right;
@@ -58,6 +59,7 @@ q {
 #quote{
     font-size: 40px;
     padding-top: 20px;
+    padding-left: 20px;
 }
 aside a {
     text-decoration: none;
@@ -72,7 +74,6 @@ button a{
     font-family: 'Indie Flower', cursive;
     font-family: 'Lobster', cursive;
     font-size: 27px;
-    font-style: bold;
     margin: 0;
     padding: 0;
     width: 400px;
@@ -148,7 +149,6 @@ footer{
 }
 .paginator{
     font-size: 30px;
-    font-style: bold;
     text-align: center;
 }
 footer a:hover, footer a:active {
